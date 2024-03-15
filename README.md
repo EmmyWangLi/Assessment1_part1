@@ -1,2 +1,2 @@
 # Assessment1_part1
-first 
+# Task: create an image gallery
