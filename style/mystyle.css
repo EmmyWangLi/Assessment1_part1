@@ -1,0 +1,40 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  background-color: rgb(243, 243, 229);
+  box-sizing: border-box;
+  margin: 50px 20px;
+  
+}
+h1{
+  text-align: center;
+  padding-bottom: 30px;
+}
+h3 {
+  text-decoration: underline;
+  padding-top: 20px;
+}
+
+#intro {
+  text-align: justify;
+}
+
+.gallery {
+  display: inline-block;
+  border: 2px solid rgb(133, 133, 133);
+  
+}
+header {
+  text-align: left;
+  padding: 10px;
+  color:blue;
+  font-size: smaller;
+}
+.gallery:hover {
+  border: 1px solid rgb(31, 31, 31);
+}
+
+#close h3 {
+  text-decoration: none;
+}
